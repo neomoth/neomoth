@@ -22,6 +22,8 @@ stupid idiot moth that writes bad code -> <img width="88" height="68" alt="konil
 - distro of choice: Arch
 - moffing it: yes
 
+<img width="320" height="180" alt="mothapocalypse4" src="https://github.com/user-attachments/assets/a83a5824-4f15-449c-8247-bc6050e212af" />
+
 ![cooltext497484793754209](https://github.com/user-attachments/assets/88d18a0a-00db-4ccb-8b9a-dcbc99ccddac)
 
 people who listened to the awesome sick fire text -> ![stars](https://img.shields.io/github/stars/neomoth?style=flat)
