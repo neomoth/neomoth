@@ -7,6 +7,8 @@ stupid idiot moth that writes bad code -> <img width="88" height="68" alt="konil
 ## languages i use (ranked by confidence)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ## shilling corner
+<img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/e3195b1d-573b-4805-815f-060c06066dda" /> [corru.observer](https://corru.observer)
+
 <img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/2c8dd1f1-98ef-4ded-8a52-56b6f21b5616" /> [CrossCode](https://cross-code.com)
 
 <img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/5fada297-8d04-4c7b-9573-7f51bc532db2" /> [Space Station 14](https://spacestation14.com)
